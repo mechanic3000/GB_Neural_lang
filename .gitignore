@@ -12,3 +12,5 @@ positive.csv
 test_tweets.csv
 
 train_tweets.csv
+
+dataset/
